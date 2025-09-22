@@ -1,3 +1,3 @@
-# APLIKASI-AI
+# APLIKASI AI PENDETEKSI TUMOR
 
-(h1) Aplikasi AI pendeteksi tumor pada otak, untuk Rumah Sakit (h1)
+Aplikasi AI pendeteksi tumor pada otak, untuk Rumah Sakit
